@@ -1,0 +1,1 @@
+# Electromagnetic Fault Injection as a New Forensic Approach for SoCs阅读笔记
